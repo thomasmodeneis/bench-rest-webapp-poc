@@ -1,0 +1,23 @@
+{
+  "name": "bench-rest-webapp",
+  "version": "0.1.0",
+  "description": "bench-rest-webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "dependencies": {
+	    "express": "3.2.6",
+	    "firebase": "*",
+	    "bench-rest": "*"
+ },
+  "repository": "",
+  "keywords": [
+    "Node.js",
+    "Eclipse",
+    "Nodeclipse"
+  ],
+  "author": "",
+  "license": "The MIT License (MIT)",
+  "readmeFilename": "README.md"
+}
